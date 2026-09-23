@@ -1,40 +1,47 @@
 # Amazon E-Commerce Website Clone
 
-A frontend e-commerce website clone inspired by the Amazon online shopping experience.
+A frontend e-commerce website inspired by the Amazon online shopping experience.
 
-## About the Project
+## 🚀 Live Demo
 
-This project is a practice e-commerce website built to improve my frontend web development skills.
+**[View Live Website](https://natoltesfaye.github.io/amazon-website-clone./)**
 
-It recreates the look and structure of an online shopping platform, including product sections, navigation, search, categories, and shopping-related UI elements.
+## 📸 Project Screenshot
 
-## Features
+![Amazon E-Commerce Website Clone](SCREENSHOT.png)
+
+## 📖 About the Project
+
+This project is an educational e-commerce website created to practice and improve frontend web development skills.
+
+It recreates the structure and visual experience of an online shopping platform, including navigation, product sections, search, categories, and shopping-related UI elements.
+
+## ✨ Features
 
 - 🛒 E-commerce shopping interface
 - 🔍 Search bar
 - 📦 Product listings
 - 🏷️ Product categories
 - 🖼️ Product images
-- 🛍️ Amazon-inspired shopping layout
-- 📱 Responsive frontend design
+- 🛍️ Shopping-focused UI
+- 📱 Responsive layout
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 
-## Project Structure
+## 📂 Project Structure
 
 ```text
 amazon-website-clone/
-├── html/
-│   └── index.html
 ├── images/
 │   ├── icon/
 │   └── logo.png
 ├── style/
 │   └── style.css
+├── index.html
 ├── SCREENSHOT.png
-├── .gitignore
-└── README.md
+├── README.md
+└── .gitignore
