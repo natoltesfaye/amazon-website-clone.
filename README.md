@@ -1,25 +1,28 @@
-# Amazon Website Clone
+# Amazon E-Commerce Website Clone
 
-A frontend practice project inspired by the Amazon website.
+A frontend e-commerce website clone inspired by the Amazon online shopping experience.
 
-## Project Overview
+## About the Project
 
-This project was created for learning and practicing frontend web development.
+This project is a practice e-commerce website built to improve my frontend web development skills.
+
+It recreates the look and structure of an online shopping platform, including product sections, navigation, search, categories, and shopping-related UI elements.
+
+## Features
+
+- 🛒 E-commerce shopping interface
+- 🔍 Search bar
+- 📦 Product listings
+- 🏷️ Product categories
+- 🖼️ Product images
+- 🛍️ Amazon-inspired shopping layout
+- 📱 Responsive frontend design
 
 ## Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
-
-## Features
-
-- Amazon-style navigation bar
-- Product sections
-- Product images
-- Search interface
-- Category sections
-- Responsive layout
 
 ## Project Structure
 
